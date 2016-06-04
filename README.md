@@ -1,2 +1,1 @@
-# gas-prices
-Relationship between gas prices and income for cities in California
+Does gas cost more in poor neighborhoods?
